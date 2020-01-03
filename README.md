@@ -7,4 +7,4 @@ Overview of our SymmFCNet. <B>Red</B>, <B>green</B> and <B>blue</B> lines repres
 - <B>Green</B>: missing pixels (input) to missing pixels (flip); 
 - <B>Blue</B>: remaining pixels (input) to remaining pixels (flip).
 
-<img src="./Imgs/Pipeline/SymmFCNet.png">
+<img src="./SymmFCNet.png">
